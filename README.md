@@ -14,6 +14,8 @@
 
 🍫Sales & Product Analytics Dashboard
 
+Enabled marketing and sales teams to monitor high-level KPIs and profitability and logistics performance—all within a few clicks.
+
 📊Project Overview
 
 •	Developed and deployed an advanced Power BI dashboard for sales and product analytics by transforming ~60K records into a star schema model, incorporating a calendar dimension for time-based calculations and trend insights.
