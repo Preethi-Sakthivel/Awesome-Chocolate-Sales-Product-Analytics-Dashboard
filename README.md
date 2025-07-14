@@ -1,4 +1,5 @@
-# Awesome-Chocolate-Sales-Product-Analytics-Dashboard
+# Awesome Chocolate Product Sales Analytics Dashboard | Power BI | DAX |
+
 
 ![image](https://github.com/user-attachments/assets/51b6dd3c-8d64-4a0e-ab9f-d74385dc40bb)
 
@@ -6,19 +7,21 @@
 ![image](https://github.com/user-attachments/assets/977efd2e-d6ed-4a66-aeee-4121547c6e56)
 
 
+
 ![image](https://github.com/user-attachments/assets/a3b8b420-6c27-4611-95cf-50492a5d6aeb)
+
 
 
 ![image](https://github.com/user-attachments/assets/f77769fe-5468-4bc2-bf5a-efb89bb212d6)
 
 
-🍫Sales & Product Analytics Dashboard
+
 
 Enabled marketing and sales teams to monitor high-level KPIs and profitability and logistics performance—all within a few clicks.
 
 📊Project Overview
 
-•	Developed and deployed an advanced Power BI dashboard for sales and product analytics by transforming ~60K records into a star schema model, incorporating a calendar dimension for time-based calculations and trend insights.
+•	Developed and deployed an advanced Power BI dashboard for sales and product analytics by transforming records into a star schema model, incorporating a calendar dimension for time-based calculations and trend insights.
 
 •	Created complex DAX measures and calculation groups to support dynamic Month-over-Month (MoM) and Year-over-Year (YoY) analysis across KPIs like sales, profit, cost, and shipments—reducing manual update effort by 60%.
 
@@ -32,17 +35,17 @@ Enabled marketing and sales teams to monitor high-level KPIs and profitability a
 
 ________________________________________
 
-💻Project Purpose:
+💻 Project Purpose:
 
 The project aimed to create a comprehensive, interactive sales analytics dashboard to provide key stakeholders with actionable insights into sales performance, profitability, shipment metrics, and individual contributions by salespersons and products.
 ________________________________________
 
-🛅Business Problem:
+🛅 Business Problem:
 
 The client faced challenges in consolidating sales data from disparate sources and lacked real-time visibility into performance trends, sales efficiency, and profit margins. Additionally, the absence of intelligent forecasting and KPI benchmarking hindered strategic decision-making.
 ________________________________________
 
-🆕Scope of the Project:
+🆕 Scope of the Project:
 
 •	Data integration from multiple sources (Excel, CSV, databases)
 
@@ -56,7 +59,7 @@ ________________________________________
 
 ________________________________________
 
-✅Project Goals:
+✅ Project Goals:
 
 •	Unify fragmented sales data into a centralized model
 
@@ -67,7 +70,7 @@ ________________________________________
 •	Drive data-backed strategic decisions with KPI-focused dashboards
 ________________________________________
 
-🏆Key Deliverables & Quantifiable Achievements:
+🏆 Key Deliverables & Quantifiable Achievements:
 
 •	Data Model Optimization: Designed a star schema and established relationships to streamline reporting and enhance query performance.
 
@@ -85,9 +88,9 @@ ________________________________________
 
 🔺Histogram shipment analysis with zoom sliders
 
-✅UX Enhancements: Integrated tooltips, alert icons, bookmarks (with filter state preservation), and toggle views for enhanced user experience.
+✅ UX Enhancements: Integrated tooltips, alert icons, bookmarks (with filter state preservation), and toggle views for enhanced user experience.
 
-✅Decision Support: Reduced manual sales reporting time by 70% and improved data accuracy through automation.
+✅ Decision Support: Reduced manual sales reporting time by 70% and improved data accuracy through automation.
 ________________________________________
 
 📈 Impact:
@@ -98,7 +101,7 @@ ________________________________________
 
 •	Delivered rich visualizations such as histogram-based shipment analysis and performance benchmarking tables.
 
-⚙️Tools & Technologies Used:
+⚙️ Tools & Technologies Used:
 
 •	Power BI Desktop: Dashboard development, DAX scripting, and report publishing
 
